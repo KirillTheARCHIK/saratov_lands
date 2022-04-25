@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595315616013",
+    "project_id": "saratov-lands",
+    "storage_bucket": "saratov-lands.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595315616013:android:0ae8a779699536fce2e844",
+        "android_client_info": {
+          "package_name": "com.example.saratov_lands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595315616013-h8m37j52mqa3fbtsoqbt5m06dkst4nuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_uXyPK08IHKUo9QjMzyl0RaDufDjpFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595315616013-h8m37j52mqa3fbtsoqbt5m06dkst4nuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
